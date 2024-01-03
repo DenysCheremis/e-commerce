@@ -1,4 +1,4 @@
-# My E-Commerce Project
+# E-Commerce Project Developed by Denys Cheremis
 
 An advanced e-commerce template leveraging Payload CMS, designed for online stores of any size. The template includes a fully-functional backend, a professional admin panel, and a designer website.
 

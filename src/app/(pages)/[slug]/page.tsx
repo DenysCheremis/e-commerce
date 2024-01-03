@@ -19,6 +19,7 @@ import { generateMeta } from '../../_utilities/generateMeta'
 // See https://nextjs.org/docs/app/api-reference/file-conventions/route-segment-config#dynamic
 // If you are not using Payload Cloud then this line can be removed, see `../../../README.md#cache`
 export const dynamic = 'force-dynamic'
+
 import Categories from '../../_components/Categories'
 import Promotion from '../../_components/Promotion'
 
